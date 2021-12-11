@@ -2,16 +2,16 @@
 ## Description
 A youtube downloader script using pytube
 ## dependancies
--pytube3
+- pytube3
 
 ## features
--Download Audio version
--Download Highest Quality Audio Version
+- Download Audio version
+- Download Highest Quality Audio Version
 
 ## Planned
--Video Playlist Downloader
--Audio Playlist Downloader
--Choosing Which Quality to Download
+- Video Playlist Downloader
+- Audio Playlist Downloader
+- Choosing Which Quality to Download
 
 
 ##  Notes
